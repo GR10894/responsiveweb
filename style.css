@@ -278,14 +278,7 @@ img:hover {
     color: #fc036b;
     box-shadow: 2px 2px 5px #00000056;
 }
-.nav-links .ctn {
-    color: whitesmoke;
-    transition: all 0.5s ease;
-}
-.nav-links .ctn {
-    color: #fc036b;
-}
-li:hover {
+li a:hover {
     color: #fc036b;
 }
 .nav-links a {
